@@ -1,7 +1,7 @@
 MODULE 5 CHALLENGE: Pymaceuticals
 
 
-Challenge: I was tasked with analyzing a study for a pharmaceutical company called Pymaceuticals. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+Challenge: I was tasked with analyzing a study for a pharmaceutical company called Pymaceuticals. In this study, 249 mice who were identified with squamous cell carcinoma tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 Conclusion: Through this study, it is clear that Pymaceutical's drug, Capomulin, is definitely among the most effective in decreasing the volume of tumors in mice. It seems like a competitor's drug, Ramicane, is slightly more effective, but it is a marginal diffrence and Capomulin is definitely a top performer. 
 
